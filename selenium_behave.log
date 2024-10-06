@@ -1,0 +1,632 @@
+2024-10-02 15:07:05,734 - INFO - Abrindo a página inicial: https://demoqa.com
+2024-10-02 15:07:24,513 - INFO - Página inicial aberta e screenshot capturada.
+2024-10-02 15:07:24,519 - INFO - Clicando em 'Alerts, Frame & Windows'
+2024-10-02 15:07:25,241 - INFO - 'Alerts, Frame & Windows' clicado e screenshot capturada.
+2024-10-02 15:07:25,247 - INFO - Navegando para 'Browser Windows'
+2024-10-02 15:07:25,891 - INFO - 'Browser Windows' clicado e screenshot capturada.
+2024-10-02 15:07:25,902 - INFO - Clicando no botão 'New Window'
+2024-10-02 15:07:30,284 - ERROR - Error terminating service process.
+Traceback (most recent call last):
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\common\service.py", line 170, in _terminate_process
+    self.process.terminate()
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\subprocess.py", line 1626, in terminate
+    _winapi.TerminateProcess(self._handle, 1)
+OSError: [WinError 6] Identificador inválido
+2024-10-02 15:08:18,908 - INFO - Abrindo a página inicial: https://demoqa.com
+2024-10-02 15:08:37,783 - INFO - Página inicial aberta e screenshot capturada.
+2024-10-02 15:08:37,786 - INFO - Clicando em 'Alerts, Frame & Windows'
+2024-10-02 15:08:38,969 - INFO - 'Alerts, Frame & Windows' clicado e screenshot capturada.
+2024-10-02 15:08:38,971 - INFO - Navegando para 'Browser Windows'
+2024-10-02 15:08:39,570 - INFO - 'Browser Windows' clicado e screenshot capturada.
+2024-10-02 15:08:39,580 - INFO - Clicando no botão 'New Window'
+2024-10-02 15:08:41,310 - INFO - 'New Window' clicado e screenshot capturada.
+2024-10-02 15:08:41,331 - INFO - Validando a mensagem na nova janela: 'This is a sample page'
+2024-10-02 15:08:41,504 - INFO - Mensagem validada e screenshot capturada.
+2024-10-02 15:08:47,328 - INFO - Driver fechado.
+2024-10-02 15:13:04,090 - INFO - Abrindo a página inicial: https://demoqa.com
+2024-10-02 15:13:34,912 - INFO - Página inicial aberta e screenshot capturada.
+2024-10-02 15:13:34,917 - INFO - Clicando em 'Alerts, Frame & Windows'
+2024-10-02 15:13:35,864 - INFO - 'Alerts, Frame & Windows' clicado e screenshot capturada.
+2024-10-02 15:13:35,866 - INFO - Navegando para 'Browser Windows'
+2024-10-02 15:13:36,849 - INFO - 'Browser Windows' clicado e screenshot capturada.
+2024-10-02 15:13:36,884 - INFO - Clicando no botão 'New Window'
+2024-10-02 15:13:38,414 - INFO - 'New Window' clicado e screenshot capturada.
+2024-10-02 15:13:38,418 - INFO - Validando a mensagem na nova janela: 'This is a sample page'
+2024-10-02 15:13:40,302 - INFO - Mensagem validada e screenshot capturada.
+2024-10-02 15:13:45,647 - INFO - Driver fechado.
+2024-10-02 15:16:45,993 - INFO - Abrindo a página inicial: https://demoqa.com
+2024-10-02 15:17:21,306 - INFO - Página inicial aberta e screenshot capturada.
+2024-10-02 15:17:21,308 - INFO - Clicando em 'Alerts, Frame & Windows'
+2024-10-02 15:17:22,101 - INFO - 'Alerts, Frame & Windows' clicado e screenshot capturada.
+2024-10-02 15:17:22,103 - INFO - Navegando para 'Browser Windows'
+2024-10-02 15:17:22,961 - INFO - 'Browser Windows' clicado e screenshot capturada.
+2024-10-02 15:17:22,963 - INFO - Clicando no botão 'New Window'
+2024-10-02 15:17:24,777 - INFO - 'New Window' clicado e screenshot capturada.
+2024-10-02 15:17:24,780 - INFO - Validando a mensagem na nova janela: 'This is a sample page'
+2024-10-02 15:17:24,865 - INFO - Mensagem validada e screenshot capturada.
+2024-10-02 15:17:29,637 - INFO - Driver fechado.
+2024-10-02 17:20:06,361 - INFO - Abrindo a página inicial: https://demoqa.com
+2024-10-02 17:20:21,561 - INFO - Página inicial aberta e screenshot capturada.
+2024-10-02 17:26:36,976 - INFO - Abrindo a página inicial: https://demoqa.com
+2024-10-02 17:26:51,378 - INFO - Página inicial aberta e screenshot capturada.
+2024-10-02 17:27:37,645 - INFO - Abrindo a página inicial: https://demoqa.com
+2024-10-02 17:27:53,696 - INFO - Página inicial aberta e screenshot capturada.
+2024-10-02 17:29:21,941 - INFO - Abrindo a página inicial: https://demoqa.com
+2024-10-02 17:29:37,810 - INFO - Página inicial aberta e screenshot capturada.
+2024-10-02 17:29:37,811 - INFO - Clicando no botão 'Widgets'
+2024-10-02 17:29:39,853 - ERROR - Error terminating service process.
+Traceback (most recent call last):
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\common\service.py", line 170, in _terminate_process
+    self.process.terminate()
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\subprocess.py", line 1626, in terminate
+    _winapi.TerminateProcess(self._handle, 1)
+OSError: [WinError 6] Identificador inválido
+2024-10-02 17:30:43,681 - INFO - Abrindo a página inicial: https://demoqa.com
+2024-10-02 17:30:58,392 - INFO - Página inicial aberta e screenshot capturada.
+2024-10-02 17:30:58,395 - INFO - Clicando no botão 'Widgets'
+2024-10-02 17:31:00,483 - ERROR - Error terminating service process.
+Traceback (most recent call last):
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\common\service.py", line 170, in _terminate_process
+    self.process.terminate()
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\subprocess.py", line 1626, in terminate
+    _winapi.TerminateProcess(self._handle, 1)
+OSError: [WinError 6] Identificador inválido
+2024-10-02 17:31:51,649 - INFO - Abrindo a página inicial: https://demoqa.com
+2024-10-02 17:32:05,357 - INFO - Página inicial aberta e screenshot capturada.
+2024-10-02 17:32:05,359 - INFO - Clicando no botão 'Widgets'
+2024-10-02 17:32:07,426 - ERROR - Error terminating service process.
+Traceback (most recent call last):
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\common\service.py", line 170, in _terminate_process
+    self.process.terminate()
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\subprocess.py", line 1626, in terminate
+    _winapi.TerminateProcess(self._handle, 1)
+OSError: [WinError 6] Identificador inválido
+2024-10-02 17:34:39,205 - INFO - Abrindo a página inicial: https://demoqa.com
+2024-10-02 17:34:53,005 - INFO - Página inicial aberta e screenshot capturada.
+2024-10-02 17:34:53,006 - INFO - Clicando no botão 'Widgets'
+2024-10-02 17:34:55,049 - ERROR - Error terminating service process.
+Traceback (most recent call last):
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\common\service.py", line 170, in _terminate_process
+    self.process.terminate()
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\subprocess.py", line 1626, in terminate
+    _winapi.TerminateProcess(self._handle, 1)
+OSError: [WinError 6] Identificador inválido
+2024-10-02 17:37:16,056 - INFO - Abrindo a página inicial: https://demoqa.com
+2024-10-02 17:37:32,727 - INFO - Página inicial aberta e screenshot capturada.
+2024-10-02 17:37:32,728 - INFO - Clicando no botão 'Widgets'
+2024-10-02 17:37:44,974 - ERROR - Error terminating service process.
+Traceback (most recent call last):
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\common\service.py", line 170, in _terminate_process
+    self.process.terminate()
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\subprocess.py", line 1626, in terminate
+    _winapi.TerminateProcess(self._handle, 1)
+OSError: [WinError 6] Identificador inválido
+2024-10-02 17:43:35,555 - INFO - Abrindo a página inicial: https://demoqa.com
+2024-10-02 17:43:51,815 - INFO - Página inicial aberta e screenshot capturada.
+2024-10-02 17:43:51,820 - INFO - Clicando no botão 'Widgets'
+2024-10-02 17:43:52,563 - INFO - 'Widgets' clicado e screenshot capturada.
+2024-10-02 18:05:08,754 - INFO - Abrindo a página inicial: https://demoqa.com
+2024-10-02 18:05:25,214 - INFO - Página inicial aberta e screenshot capturada.
+2024-10-02 18:05:25,216 - INFO - Clicando no botão 'Widgets'
+2024-10-02 18:05:25,813 - INFO - 'Widgets' clicado e screenshot capturada.
+2024-10-02 18:06:06,176 - INFO - Abrindo a página inicial: https://demoqa.com
+2024-10-02 18:06:22,264 - INFO - Página inicial aberta e screenshot capturada.
+2024-10-02 18:06:22,266 - INFO - Clicando no botão 'Widgets'
+2024-10-02 18:06:22,807 - INFO - 'Widgets' clicado e screenshot capturada.
+2024-10-02 18:06:22,809 - INFO - Navegando para 'Progress Bar'
+2024-10-02 18:06:24,902 - ERROR - Error terminating service process.
+Traceback (most recent call last):
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\common\service.py", line 170, in _terminate_process
+    self.process.terminate()
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\subprocess.py", line 1626, in terminate
+    _winapi.TerminateProcess(self._handle, 1)
+OSError: [WinError 6] Identificador inválido
+2024-10-02 18:09:08,192 - INFO - Abrindo a página inicial: https://demoqa.com
+2024-10-02 18:09:23,563 - INFO - Página inicial aberta e screenshot capturada.
+2024-10-02 18:09:23,566 - INFO - Clicando no botão 'Widgets'
+2024-10-02 18:09:24,238 - INFO - 'Widgets' clicado e screenshot capturada.
+2024-10-02 18:09:24,243 - INFO - Navegando para 'Progress Bar'
+2024-10-02 18:09:26,335 - ERROR - Error terminating service process.
+Traceback (most recent call last):
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\common\service.py", line 170, in _terminate_process
+    self.process.terminate()
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\subprocess.py", line 1626, in terminate
+    _winapi.TerminateProcess(self._handle, 1)
+OSError: [WinError 6] Identificador inválido
+2024-10-02 18:11:34,290 - INFO - Abrindo a página inicial: https://demoqa.com
+2024-10-02 18:11:52,159 - INFO - Página inicial aberta e screenshot capturada.
+2024-10-02 18:11:52,162 - INFO - Clicando no botão 'Widgets'
+2024-10-02 18:11:53,054 - INFO - 'Widgets' clicado e screenshot capturada.
+2024-10-02 18:11:53,063 - INFO - Navegando para 'Progress Bar'
+2024-10-02 18:12:05,411 - ERROR - Error terminating service process.
+Traceback (most recent call last):
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\common\service.py", line 170, in _terminate_process
+    self.process.terminate()
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\subprocess.py", line 1626, in terminate
+    _winapi.TerminateProcess(self._handle, 1)
+OSError: [WinError 6] Identificador inválido
+2024-10-02 18:18:39,795 - INFO - Abrindo a página inicial: https://demoqa.com
+2024-10-02 18:18:58,556 - INFO - Página inicial aberta e screenshot capturada.
+2024-10-02 18:18:58,557 - INFO - Clicando no botão 'Widgets'
+2024-10-02 18:18:59,135 - INFO - 'Widgets' clicado e screenshot capturada.
+2024-10-02 18:18:59,157 - INFO - Navegando para 'Progress Bar'
+2024-10-02 18:19:11,278 - ERROR - Error terminating service process.
+Traceback (most recent call last):
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\common\service.py", line 170, in _terminate_process
+    self.process.terminate()
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\subprocess.py", line 1626, in terminate
+    _winapi.TerminateProcess(self._handle, 1)
+OSError: [WinError 6] Identificador inválido
+2024-10-02 18:19:44,207 - INFO - Abrindo a página inicial: https://demoqa.com
+2024-10-02 18:20:02,014 - INFO - Página inicial aberta e screenshot capturada.
+2024-10-02 18:20:02,031 - INFO - Clicando no botão 'Widgets'
+2024-10-02 18:20:02,663 - INFO - 'Widgets' clicado e screenshot capturada.
+2024-10-02 18:20:02,668 - INFO - Navegando para 'Progress Bar'
+2024-10-02 18:20:04,885 - ERROR - Error terminating service process.
+Traceback (most recent call last):
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\common\service.py", line 170, in _terminate_process
+    self.process.terminate()
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\subprocess.py", line 1626, in terminate
+    _winapi.TerminateProcess(self._handle, 1)
+OSError: [WinError 6] Identificador inválido
+2024-10-02 18:20:48,988 - INFO - Abrindo a página inicial: https://demoqa.com
+2024-10-02 18:21:25,249 - ERROR - Error terminating service process.
+Traceback (most recent call last):
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\common\service.py", line 170, in _terminate_process
+    self.process.terminate()
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\subprocess.py", line 1626, in terminate
+    _winapi.TerminateProcess(self._handle, 1)
+OSError: [WinError 6] Identificador inválido
+2024-10-02 18:22:00,929 - INFO - Abrindo a página inicial: https://demoqa.com
+2024-10-02 18:22:47,576 - INFO - Abrindo a página inicial: https://demoqa.com
+2024-10-02 18:23:13,851 - INFO - Página inicial aberta e screenshot capturada.
+2024-10-02 18:23:13,855 - INFO - Clicando no botão 'Widgets'
+2024-10-02 18:23:14,494 - INFO - 'Widgets' clicado e screenshot capturada.
+2024-10-02 18:23:14,497 - INFO - Navegando para 'Progress Bar'
+2024-10-02 18:23:15,022 - INFO - 'progress bar' clicado e screenshot capturada.
+2024-10-02 18:45:30,813 - INFO - Abrindo a página inicial: https://demoqa.com
+2024-10-02 18:45:45,526 - INFO - Página inicial aberta e screenshot capturada.
+2024-10-02 18:45:45,530 - INFO - Clicando no botão 'Widgets'
+2024-10-02 18:45:46,241 - INFO - 'Widgets' clicado e screenshot capturada.
+2024-10-02 18:45:46,243 - INFO - Navegando para 'Progress Bar'
+2024-10-02 18:45:46,826 - INFO - 'progress bar' clicado e screenshot capturada.
+2024-10-02 18:45:46,871 - INFO - Validando a porcentagem
+2024-10-02 18:45:49,115 - ERROR - Error terminating service process.
+Traceback (most recent call last):
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\common\service.py", line 170, in _terminate_process
+    self.process.terminate()
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\subprocess.py", line 1626, in terminate
+    _winapi.TerminateProcess(self._handle, 1)
+OSError: [WinError 6] Identificador inválido
+2024-10-02 18:46:51,315 - INFO - Abrindo a página inicial: https://demoqa.com
+2024-10-02 18:47:05,825 - INFO - Página inicial aberta e screenshot capturada.
+2024-10-02 18:47:05,826 - INFO - Clicando no botão 'Widgets'
+2024-10-02 18:47:06,443 - INFO - 'Widgets' clicado e screenshot capturada.
+2024-10-02 18:47:06,456 - INFO - Navegando para 'Progress Bar'
+2024-10-02 18:47:07,043 - INFO - 'progress bar' clicado e screenshot capturada.
+2024-10-02 18:47:07,045 - INFO - Validando a porcentagem
+2024-10-02 18:47:09,126 - ERROR - Error terminating service process.
+Traceback (most recent call last):
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\common\service.py", line 170, in _terminate_process
+    self.process.terminate()
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\subprocess.py", line 1626, in terminate
+    _winapi.TerminateProcess(self._handle, 1)
+OSError: [WinError 6] Identificador inválido
+2024-10-02 18:49:07,540 - INFO - Abrindo a página inicial: https://demoqa.com
+2024-10-02 18:49:22,660 - INFO - Página inicial aberta e screenshot capturada.
+2024-10-02 18:49:22,662 - INFO - Clicando no botão 'Widgets'
+2024-10-02 18:49:23,142 - INFO - 'Widgets' clicado e screenshot capturada.
+2024-10-02 18:49:23,144 - INFO - Navegando para 'Progress Bar'
+2024-10-02 18:49:23,552 - INFO - 'progress bar' clicado e screenshot capturada.
+2024-10-02 18:49:23,552 - INFO - Validando a porcentagem
+2024-10-02 18:49:25,621 - ERROR - Error terminating service process.
+Traceback (most recent call last):
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\common\service.py", line 170, in _terminate_process
+    self.process.terminate()
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\subprocess.py", line 1626, in terminate
+    _winapi.TerminateProcess(self._handle, 1)
+OSError: [WinError 6] Identificador inválido
+2024-10-02 18:50:20,758 - INFO - Abrindo a página inicial: https://demoqa.com
+2024-10-02 18:50:38,731 - INFO - Página inicial aberta e screenshot capturada.
+2024-10-02 18:50:38,734 - INFO - Clicando no botão 'Widgets'
+2024-10-02 18:50:39,327 - INFO - 'Widgets' clicado e screenshot capturada.
+2024-10-02 18:50:39,330 - INFO - Navegando para 'Progress Bar'
+2024-10-02 18:50:39,876 - INFO - 'progress bar' clicado e screenshot capturada.
+2024-10-02 18:50:39,880 - INFO - Validando a porcentagem
+2024-10-02 18:50:52,642 - ERROR - Error terminating service process.
+Traceback (most recent call last):
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\common\service.py", line 170, in _terminate_process
+    self.process.terminate()
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\subprocess.py", line 1626, in terminate
+    _winapi.TerminateProcess(self._handle, 1)
+OSError: [WinError 6] Identificador inválido
+2024-10-02 18:53:27,015 - INFO - Abrindo a página inicial: https://demoqa.com
+2024-10-02 18:53:43,279 - INFO - Página inicial aberta e screenshot capturada.
+2024-10-02 18:53:43,282 - INFO - Clicando no botão 'Widgets'
+2024-10-02 18:53:43,876 - INFO - 'Widgets' clicado e screenshot capturada.
+2024-10-02 18:53:43,881 - INFO - Navegando para 'Progress Bar'
+2024-10-02 18:53:44,406 - INFO - 'progress bar' clicado e screenshot capturada.
+2024-10-02 18:53:44,416 - INFO - Validando a porcentagem
+2024-10-02 18:53:57,730 - ERROR - Error terminating service process.
+Traceback (most recent call last):
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\common\service.py", line 170, in _terminate_process
+    self.process.terminate()
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\subprocess.py", line 1626, in terminate
+    _winapi.TerminateProcess(self._handle, 1)
+OSError: [WinError 6] Identificador inválido
+2024-10-02 18:56:06,062 - INFO - Abrindo a página inicial: https://demoqa.com
+2024-10-02 18:56:22,400 - INFO - Página inicial aberta e screenshot capturada.
+2024-10-02 18:56:22,403 - INFO - Clicando no botão 'Widgets'
+2024-10-02 18:56:23,110 - INFO - 'Widgets' clicado e screenshot capturada.
+2024-10-02 18:56:23,119 - INFO - Navegando para 'Progress Bar'
+2024-10-02 18:56:24,938 - INFO - 'progress bar' clicado e screenshot capturada.
+2024-10-02 18:56:24,950 - INFO - Validando a porcentagem
+2024-10-02 18:56:27,392 - ERROR - Error terminating service process.
+Traceback (most recent call last):
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\common\service.py", line 170, in _terminate_process
+    self.process.terminate()
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\subprocess.py", line 1626, in terminate
+    _winapi.TerminateProcess(self._handle, 1)
+OSError: [WinError 6] Identificador inválido
+2024-10-02 18:56:58,704 - INFO - Abrindo a página inicial: https://demoqa.com
+2024-10-02 18:57:16,998 - INFO - Página inicial aberta e screenshot capturada.
+2024-10-02 18:57:17,007 - INFO - Clicando no botão 'Widgets'
+2024-10-02 18:57:17,994 - INFO - 'Widgets' clicado e screenshot capturada.
+2024-10-02 18:57:18,036 - INFO - Navegando para 'Progress Bar'
+2024-10-02 18:57:20,093 - INFO - 'progress bar' clicado e screenshot capturada.
+2024-10-02 18:57:20,259 - INFO - Validando a porcentagem
+2024-10-02 18:57:23,631 - ERROR - Error terminating service process.
+Traceback (most recent call last):
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\common\service.py", line 170, in _terminate_process
+    self.process.terminate()
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\subprocess.py", line 1626, in terminate
+    _winapi.TerminateProcess(self._handle, 1)
+OSError: [WinError 6] Identificador inválido
+2024-10-02 18:57:57,754 - INFO - Abrindo a página inicial: https://demoqa.com
+2024-10-02 18:58:12,316 - INFO - Página inicial aberta e screenshot capturada.
+2024-10-02 18:58:12,320 - INFO - Clicando no botão 'Widgets'
+2024-10-02 18:58:12,972 - INFO - 'Widgets' clicado e screenshot capturada.
+2024-10-02 18:58:12,988 - INFO - Navegando para 'Progress Bar'
+2024-10-02 18:58:13,576 - INFO - 'progress bar' clicado e screenshot capturada.
+2024-10-02 18:58:13,584 - INFO - Validando a porcentagem
+2024-10-02 18:58:21,023 - ERROR - Error terminating service process.
+Traceback (most recent call last):
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\common\service.py", line 170, in _terminate_process
+    self.process.terminate()
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\subprocess.py", line 1626, in terminate
+    _winapi.TerminateProcess(self._handle, 1)
+OSError: [WinError 6] Identificador inválido
+2024-10-02 19:01:51,821 - INFO - Abrindo a página inicial: https://demoqa.com
+2024-10-02 19:02:07,612 - INFO - Página inicial aberta e screenshot capturada.
+2024-10-02 19:02:07,617 - INFO - Clicando no botão 'Widgets'
+2024-10-02 19:02:08,141 - INFO - 'Widgets' clicado e screenshot capturada.
+2024-10-02 19:02:08,142 - INFO - Navegando para 'Progress Bar'
+2024-10-02 19:02:08,522 - INFO - 'progress bar' clicado e screenshot capturada.
+2024-10-02 19:02:08,523 - INFO - Validando a porcentagem
+2024-10-02 19:02:21,133 - ERROR - Error terminating service process.
+Traceback (most recent call last):
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\common\service.py", line 170, in _terminate_process
+    self.process.terminate()
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\subprocess.py", line 1626, in terminate
+    _winapi.TerminateProcess(self._handle, 1)
+OSError: [WinError 6] Identificador inválido
+2024-10-02 19:04:30,831 - INFO - Abrindo a página inicial: https://demoqa.com
+2024-10-02 19:04:45,844 - INFO - Página inicial aberta e screenshot capturada.
+2024-10-02 19:04:45,852 - INFO - Clicando no botão 'Widgets'
+2024-10-02 19:04:46,614 - INFO - 'Widgets' clicado e screenshot capturada.
+2024-10-02 19:04:46,620 - INFO - Navegando para 'Progress Bar'
+2024-10-02 19:04:47,202 - INFO - 'progress bar' clicado e screenshot capturada.
+2024-10-02 19:04:47,209 - INFO - Validando a porcentagem
+2024-10-02 19:04:50,273 - ERROR - Error terminating service process.
+Traceback (most recent call last):
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\common\service.py", line 170, in _terminate_process
+    self.process.terminate()
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\subprocess.py", line 1626, in terminate
+    _winapi.TerminateProcess(self._handle, 1)
+OSError: [WinError 6] Identificador inválido
+2024-10-02 19:07:32,068 - INFO - Abrindo a página inicial: https://demoqa.com
+2024-10-02 19:07:47,185 - INFO - Página inicial aberta e screenshot capturada.
+2024-10-02 19:07:47,188 - INFO - Clicando no botão 'Widgets'
+2024-10-02 19:07:47,967 - INFO - 'Widgets' clicado e screenshot capturada.
+2024-10-02 19:07:47,971 - INFO - Navegando para 'Progress Bar'
+2024-10-02 19:07:48,895 - INFO - 'progress bar' clicado e screenshot capturada.
+2024-10-02 19:07:48,932 - INFO - Validando a porcentagem
+2024-10-02 19:07:51,968 - ERROR - Error terminating service process.
+Traceback (most recent call last):
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\common\service.py", line 170, in _terminate_process
+    self.process.terminate()
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\subprocess.py", line 1626, in terminate
+    _winapi.TerminateProcess(self._handle, 1)
+OSError: [WinError 6] Identificador inválido
+2024-10-02 19:08:13,098 - INFO - Abrindo a página inicial: https://demoqa.com
+2024-10-02 19:08:28,877 - INFO - Página inicial aberta e screenshot capturada.
+2024-10-02 19:08:28,879 - INFO - Clicando no botão 'Widgets'
+2024-10-02 19:08:29,748 - INFO - 'Widgets' clicado e screenshot capturada.
+2024-10-02 19:08:29,752 - INFO - Navegando para 'Progress Bar'
+2024-10-02 19:08:30,382 - INFO - 'progress bar' clicado e screenshot capturada.
+2024-10-02 19:08:30,443 - INFO - Validando a porcentagem
+2024-10-02 19:08:33,762 - ERROR - Error terminating service process.
+Traceback (most recent call last):
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\common\service.py", line 170, in _terminate_process
+    self.process.terminate()
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\subprocess.py", line 1626, in terminate
+    _winapi.TerminateProcess(self._handle, 1)
+OSError: [WinError 6] Identificador inválido
+2024-10-02 19:09:16,528 - INFO - Abrindo a página inicial: https://demoqa.com
+2024-10-02 19:09:31,664 - INFO - Página inicial aberta e screenshot capturada.
+2024-10-02 19:09:31,695 - INFO - Clicando no botão 'Widgets'
+2024-10-02 19:09:32,333 - INFO - 'Widgets' clicado e screenshot capturada.
+2024-10-02 19:09:32,335 - INFO - Navegando para 'Progress Bar'
+2024-10-02 19:09:32,785 - INFO - 'progress bar' clicado e screenshot capturada.
+2024-10-02 19:09:32,827 - INFO - Validando a porcentagem
+2024-10-02 19:09:45,448 - ERROR - Error terminating service process.
+Traceback (most recent call last):
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\common\service.py", line 170, in _terminate_process
+    self.process.terminate()
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\subprocess.py", line 1626, in terminate
+    _winapi.TerminateProcess(self._handle, 1)
+OSError: [WinError 6] Identificador inválido
+2024-10-02 19:11:14,729 - INFO - Abrindo a página inicial: https://demoqa.com
+2024-10-02 19:11:29,767 - INFO - Página inicial aberta e screenshot capturada.
+2024-10-02 19:11:29,768 - INFO - Clicando no botão 'Widgets'
+2024-10-02 19:11:30,525 - INFO - 'Widgets' clicado e screenshot capturada.
+2024-10-02 19:11:30,532 - INFO - Navegando para 'Progress Bar'
+2024-10-02 19:11:31,471 - INFO - 'progress bar' clicado e screenshot capturada.
+2024-10-02 19:11:31,552 - INFO - Validando a porcentagem
+2024-10-02 19:11:45,060 - ERROR - Error terminating service process.
+Traceback (most recent call last):
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\common\service.py", line 170, in _terminate_process
+    self.process.terminate()
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\subprocess.py", line 1626, in terminate
+    _winapi.TerminateProcess(self._handle, 1)
+OSError: [WinError 6] Identificador inválido
+2024-10-02 19:12:50,037 - INFO - Abrindo a página inicial: https://demoqa.com
+2024-10-02 19:13:04,555 - INFO - Página inicial aberta e screenshot capturada.
+2024-10-02 19:13:04,562 - INFO - Clicando no botão 'Widgets'
+2024-10-02 19:13:05,109 - INFO - 'Widgets' clicado e screenshot capturada.
+2024-10-02 19:13:05,136 - INFO - Navegando para 'Progress Bar'
+2024-10-02 19:13:05,580 - INFO - 'progress bar' clicado e screenshot capturada.
+2024-10-02 19:13:05,582 - INFO - Validando a porcentagem
+2024-10-02 19:13:41,393 - ERROR - Error terminating service process.
+Traceback (most recent call last):
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\common\service.py", line 170, in _terminate_process
+    self.process.terminate()
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\subprocess.py", line 1626, in terminate
+    _winapi.TerminateProcess(self._handle, 1)
+OSError: [WinError 6] Identificador inválido
+2024-10-02 19:14:42,824 - INFO - Abrindo a página inicial: https://demoqa.com
+2024-10-02 19:14:57,232 - INFO - Página inicial aberta e screenshot capturada.
+2024-10-02 19:14:57,247 - INFO - Clicando no botão 'Widgets'
+2024-10-02 19:14:57,802 - INFO - 'Widgets' clicado e screenshot capturada.
+2024-10-02 19:14:57,841 - INFO - Navegando para 'Progress Bar'
+2024-10-02 19:14:58,392 - INFO - 'progress bar' clicado e screenshot capturada.
+2024-10-02 19:14:58,407 - INFO - Validando a porcentagem
+2024-10-02 19:15:30,831 - ERROR - Error terminating service process.
+Traceback (most recent call last):
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\common\service.py", line 170, in _terminate_process
+    self.process.terminate()
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\subprocess.py", line 1626, in terminate
+    _winapi.TerminateProcess(self._handle, 1)
+OSError: [WinError 6] Identificador inválido
+2024-10-02 19:16:43,476 - INFO - Abrindo a página inicial: https://demoqa.com
+2024-10-02 19:16:58,003 - INFO - Página inicial aberta e screenshot capturada.
+2024-10-02 19:16:58,006 - INFO - Clicando no botão 'Widgets'
+2024-10-02 19:16:58,654 - INFO - 'Widgets' clicado e screenshot capturada.
+2024-10-02 19:16:58,699 - INFO - Navegando para 'Progress Bar'
+2024-10-02 19:16:59,175 - INFO - 'progress bar' clicado e screenshot capturada.
+2024-10-02 19:16:59,190 - INFO - Validando a porcentagem
+2024-10-02 19:17:22,689 - ERROR - Error terminating service process.
+Traceback (most recent call last):
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\common\service.py", line 170, in _terminate_process
+    self.process.terminate()
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\subprocess.py", line 1626, in terminate
+    _winapi.TerminateProcess(self._handle, 1)
+OSError: [WinError 6] Identificador inválido
+2024-10-02 19:17:55,745 - INFO - Abrindo a página inicial: https://demoqa.com
+2024-10-02 19:18:09,327 - INFO - Página inicial aberta e screenshot capturada.
+2024-10-02 19:18:09,327 - INFO - Clicando no botão 'Widgets'
+2024-10-02 19:18:09,952 - INFO - 'Widgets' clicado e screenshot capturada.
+2024-10-02 19:18:09,952 - INFO - Navegando para 'Progress Bar'
+2024-10-02 19:18:10,522 - INFO - 'progress bar' clicado e screenshot capturada.
+2024-10-02 19:18:10,550 - INFO - Validando a porcentagem
+2024-10-02 19:18:43,371 - ERROR - Error terminating service process.
+Traceback (most recent call last):
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\common\service.py", line 170, in _terminate_process
+    self.process.terminate()
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\subprocess.py", line 1626, in terminate
+    _winapi.TerminateProcess(self._handle, 1)
+OSError: [WinError 6] Identificador inválido
+2024-10-02 19:22:23,926 - INFO - Abrindo a página inicial: https://demoqa.com
+2024-10-02 19:22:39,688 - INFO - Página inicial aberta e screenshot capturada.
+2024-10-02 19:22:39,692 - INFO - Clicando no botão 'Widgets'
+2024-10-02 19:22:40,272 - INFO - 'Widgets' clicado e screenshot capturada.
+2024-10-02 19:22:40,295 - INFO - Navegando para 'Progress Bar'
+2024-10-02 19:22:40,754 - INFO - 'progress bar' clicado e screenshot capturada.
+2024-10-02 19:22:40,763 - INFO - Validando a porcentagem
+2024-10-02 19:23:13,559 - ERROR - Error terminating service process.
+Traceback (most recent call last):
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\common\service.py", line 170, in _terminate_process
+    self.process.terminate()
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\subprocess.py", line 1626, in terminate
+    _winapi.TerminateProcess(self._handle, 1)
+OSError: [WinError 6] Identificador inválido
+2024-10-02 19:27:30,771 - INFO - Abrindo a página inicial: https://demoqa.com
+2024-10-02 19:27:48,350 - INFO - Página inicial aberta e screenshot capturada.
+2024-10-02 19:27:48,355 - INFO - Clicando no botão 'Widgets'
+2024-10-02 19:27:48,894 - INFO - 'Widgets' clicado e screenshot capturada.
+2024-10-02 19:27:48,899 - INFO - Navegando para 'Progress Bar'
+2024-10-02 19:27:49,399 - INFO - 'progress bar' clicado e screenshot capturada.
+2024-10-02 19:27:49,404 - INFO - Validando a porcentagem
+2024-10-02 19:28:12,309 - ERROR - Error terminating service process.
+Traceback (most recent call last):
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\common\service.py", line 170, in _terminate_process
+    self.process.terminate()
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\subprocess.py", line 1626, in terminate
+    _winapi.TerminateProcess(self._handle, 1)
+OSError: [WinError 6] Identificador inválido
+2024-10-02 19:30:04,082 - INFO - Abrindo a página inicial: https://demoqa.com
+2024-10-02 19:30:22,475 - INFO - Página inicial aberta e screenshot capturada.
+2024-10-02 19:30:22,497 - INFO - Clicando no botão 'Widgets'
+2024-10-02 19:30:23,138 - INFO - 'Widgets' clicado e screenshot capturada.
+2024-10-02 19:30:23,171 - INFO - Navegando para 'Progress Bar'
+2024-10-02 19:30:23,734 - INFO - 'progress bar' clicado e screenshot capturada.
+2024-10-02 19:30:23,748 - INFO - Validando a porcentagem
+2024-10-02 19:30:26,034 - ERROR - Error terminating service process.
+Traceback (most recent call last):
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\common\service.py", line 170, in _terminate_process
+    self.process.terminate()
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\subprocess.py", line 1626, in terminate
+    _winapi.TerminateProcess(self._handle, 1)
+OSError: [WinError 6] Identificador inválido
+2024-10-02 19:31:40,428 - INFO - Abrindo a página inicial: https://demoqa.com
+2024-10-02 19:31:58,184 - INFO - Página inicial aberta e screenshot capturada.
+2024-10-02 19:31:58,194 - INFO - Clicando no botão 'Widgets'
+2024-10-02 19:31:58,752 - INFO - 'Widgets' clicado e screenshot capturada.
+2024-10-02 19:31:58,781 - INFO - Navegando para 'Progress Bar'
+2024-10-02 19:31:59,309 - INFO - 'progress bar' clicado e screenshot capturada.
+2024-10-02 19:31:59,311 - INFO - Validando a porcentagem
+2024-10-02 19:32:01,436 - ERROR - Error terminating service process.
+Traceback (most recent call last):
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\common\service.py", line 170, in _terminate_process
+    self.process.terminate()
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\subprocess.py", line 1626, in terminate
+    _winapi.TerminateProcess(self._handle, 1)
+OSError: [WinError 6] Identificador inválido
+2024-10-02 19:32:42,581 - INFO - Abrindo a página inicial: https://demoqa.com
+2024-10-02 19:33:01,069 - INFO - Página inicial aberta e screenshot capturada.
+2024-10-02 19:33:01,081 - INFO - Clicando no botão 'Widgets'
+2024-10-02 19:33:01,701 - INFO - 'Widgets' clicado e screenshot capturada.
+2024-10-02 19:33:01,714 - INFO - Navegando para 'Progress Bar'
+2024-10-02 19:33:02,305 - INFO - 'progress bar' clicado e screenshot capturada.
+2024-10-02 19:33:02,315 - INFO - Validando a porcentagem
+2024-10-02 19:33:35,804 - ERROR - Error terminating service process.
+Traceback (most recent call last):
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\common\service.py", line 170, in _terminate_process
+    self.process.terminate()
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\subprocess.py", line 1626, in terminate
+    _winapi.TerminateProcess(self._handle, 1)
+OSError: [WinError 6] Identificador inválido
+2024-10-02 20:12:10,081 - INFO - Abrindo a página inicial: https://demoqa.com
+2024-10-02 20:12:32,586 - INFO - Página inicial aberta e screenshot capturada.
+2024-10-02 20:12:32,588 - INFO - Clicando no botão 'Widgets'
+2024-10-02 20:12:33,097 - INFO - 'Widgets' clicado e screenshot capturada.
+2024-10-02 20:12:33,098 - INFO - Navegando para 'Progress Bar'
+2024-10-02 20:12:33,856 - INFO - 'progress bar' clicado e screenshot capturada.
+2024-10-02 20:12:33,987 - INFO - Validando a porcentagem
+2024-10-02 20:13:08,059 - ERROR - Error terminating service process.
+Traceback (most recent call last):
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\common\service.py", line 170, in _terminate_process
+    self.process.terminate()
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\subprocess.py", line 1626, in terminate
+    _winapi.TerminateProcess(self._handle, 1)
+OSError: [WinError 6] Identificador inválido
+2024-10-02 20:13:58,863 - INFO - Abrindo a página inicial: https://demoqa.com
+2024-10-02 20:14:15,749 - INFO - Página inicial aberta e screenshot capturada.
+2024-10-02 20:14:15,753 - INFO - Clicando no botão 'Widgets'
+2024-10-02 20:14:16,446 - INFO - 'Widgets' clicado e screenshot capturada.
+2024-10-02 20:14:16,470 - INFO - Navegando para 'Progress Bar'
+2024-10-02 20:14:16,971 - INFO - 'progress bar' clicado e screenshot capturada.
+2024-10-02 20:14:16,976 - INFO - Validando a porcentagem
+2024-10-02 20:15:01,520 - ERROR - Error terminating service process.
+Traceback (most recent call last):
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\common\service.py", line 170, in _terminate_process
+    self.process.terminate()
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\subprocess.py", line 1626, in terminate
+    _winapi.TerminateProcess(self._handle, 1)
+OSError: [WinError 6] Identificador inválido
+2024-10-02 20:15:22,323 - INFO - Abrindo a página inicial: https://demoqa.com
+2024-10-02 20:15:40,736 - INFO - Página inicial aberta e screenshot capturada.
+2024-10-02 20:15:40,738 - INFO - Clicando no botão 'Widgets'
+2024-10-02 20:15:41,333 - INFO - 'Widgets' clicado e screenshot capturada.
+2024-10-02 20:15:41,338 - INFO - Navegando para 'Progress Bar'
+2024-10-02 20:15:41,921 - INFO - 'progress bar' clicado e screenshot capturada.
+2024-10-02 20:15:41,925 - INFO - Validando a porcentagem
+2024-10-02 20:15:55,562 - ERROR - Error terminating service process.
+Traceback (most recent call last):
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\common\service.py", line 170, in _terminate_process
+    self.process.terminate()
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\subprocess.py", line 1626, in terminate
+    _winapi.TerminateProcess(self._handle, 1)
+OSError: [WinError 6] Identificador inválido
+2024-10-02 20:18:55,512 - INFO - Abrindo a página inicial: https://demoqa.com
+2024-10-02 20:19:14,591 - INFO - Página inicial aberta e screenshot capturada.
+2024-10-02 20:19:14,649 - INFO - Clicando no botão 'Widgets'
+2024-10-02 20:19:15,841 - INFO - 'Widgets' clicado e screenshot capturada.
+2024-10-02 20:19:15,843 - INFO - Navegando para 'Progress Bar'
+2024-10-02 20:19:17,346 - INFO - 'progress bar' clicado e screenshot capturada.
+2024-10-02 20:19:17,417 - INFO - Validando a porcentagem
+2024-10-02 20:19:31,365 - ERROR - Error terminating service process.
+Traceback (most recent call last):
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\common\service.py", line 170, in _terminate_process
+    self.process.terminate()
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\subprocess.py", line 1626, in terminate
+    _winapi.TerminateProcess(self._handle, 1)
+OSError: [WinError 6] Identificador inválido
+2024-10-02 20:31:18,932 - INFO - Abrindo a página inicial: https://demoqa.com
+2024-10-02 20:31:38,598 - INFO - Página inicial aberta e screenshot capturada.
+2024-10-02 20:31:38,600 - INFO - Clicando no botão 'Widgets'
+2024-10-02 20:31:39,191 - INFO - 'Widgets' clicado e screenshot capturada.
+2024-10-02 20:31:39,210 - INFO - Navegando para 'Progress Bar'
+2024-10-02 20:31:39,737 - INFO - 'progress bar' clicado e screenshot capturada.
+2024-10-02 20:31:39,738 - INFO - Validando a porcentagem
+2024-10-02 20:31:52,726 - ERROR - Error terminating service process.
+Traceback (most recent call last):
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\common\service.py", line 170, in _terminate_process
+    self.process.terminate()
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\subprocess.py", line 1626, in terminate
+    _winapi.TerminateProcess(self._handle, 1)
+OSError: [WinError 6] Identificador inválido
+2024-10-02 20:32:58,836 - INFO - Abrindo a página inicial: https://demoqa.com
+2024-10-02 20:33:15,007 - INFO - Página inicial aberta e screenshot capturada.
+2024-10-02 20:33:15,020 - INFO - Clicando no botão 'Widgets'
+2024-10-02 20:33:15,937 - INFO - 'Widgets' clicado e screenshot capturada.
+2024-10-02 20:33:15,938 - INFO - Navegando para 'Progress Bar'
+2024-10-02 20:33:18,052 - ERROR - Error terminating service process.
+Traceback (most recent call last):
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\common\service.py", line 170, in _terminate_process
+    self.process.terminate()
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\subprocess.py", line 1626, in terminate
+    _winapi.TerminateProcess(self._handle, 1)
+OSError: [WinError 6] Identificador inválido
+2024-10-02 20:36:08,126 - INFO - Abrindo a página inicial: https://demoqa.com
+2024-10-02 20:36:24,310 - INFO - Página inicial aberta e screenshot capturada.
+2024-10-02 20:36:24,329 - INFO - Clicando no botão 'Widgets'
+2024-10-02 20:36:25,076 - INFO - 'Widgets' clicado e screenshot capturada.
+2024-10-02 20:36:25,086 - INFO - Navegando para 'Progress Bar'
+2024-10-02 20:36:25,660 - INFO - 'progress bar' clicado e screenshot capturada.
+2024-10-02 20:36:25,668 - INFO - Validando a porcentagem
+2024-10-02 20:36:28,057 - ERROR - Error terminating service process.
+Traceback (most recent call last):
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\common\service.py", line 170, in _terminate_process
+    self.process.terminate()
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\subprocess.py", line 1626, in terminate
+    _winapi.TerminateProcess(self._handle, 1)
+OSError: [WinError 6] Identificador inválido
+2024-10-02 20:37:28,201 - INFO - Abrindo a página inicial: https://demoqa.com
+2024-10-02 20:37:44,618 - INFO - Página inicial aberta e screenshot capturada.
+2024-10-02 20:37:44,625 - INFO - Clicando no botão 'Widgets'
+2024-10-02 20:37:45,430 - INFO - 'Widgets' clicado e screenshot capturada.
+2024-10-02 20:37:45,440 - INFO - Navegando para 'Progress Bar'
+2024-10-02 20:37:46,084 - INFO - 'progress bar' clicado e screenshot capturada.
+2024-10-02 20:37:46,125 - INFO - Validando a porcentagem
+2024-10-02 20:37:59,201 - ERROR - Error terminating service process.
+Traceback (most recent call last):
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\common\service.py", line 170, in _terminate_process
+    self.process.terminate()
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\subprocess.py", line 1626, in terminate
+    _winapi.TerminateProcess(self._handle, 1)
+OSError: [WinError 6] Identificador inválido
+2024-10-02 20:38:45,788 - INFO - Abrindo a página inicial: https://demoqa.com
+2024-10-02 20:39:00,996 - INFO - Página inicial aberta e screenshot capturada.
+2024-10-02 20:39:01,000 - INFO - Clicando no botão 'Widgets'
+2024-10-02 20:39:01,772 - INFO - 'Widgets' clicado e screenshot capturada.
+2024-10-02 20:39:01,778 - INFO - Navegando para 'Progress Bar'
+2024-10-02 20:39:02,380 - INFO - 'progress bar' clicado e screenshot capturada.
+2024-10-02 20:39:02,386 - INFO - Validando a porcentagem
+2024-10-02 20:39:25,175 - ERROR - Error terminating service process.
+Traceback (most recent call last):
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\common\service.py", line 170, in _terminate_process
+    self.process.terminate()
+  File "C:\Users\welli\AppData\Local\Programs\Python\Python311\Lib\subprocess.py", line 1626, in terminate
+    _winapi.TerminateProcess(self._handle, 1)
+OSError: [WinError 6] Identificador inválido
